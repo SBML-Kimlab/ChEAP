@@ -6,7 +6,8 @@ Ina Bang, Linh Khanh Nong, Joon Young Park, Hoa Thi Le, Bernhard O. Palsson,Dong
 Using in 
 
 -Colab or jupyter notebook : Download .ipynb file
-
+    Using Colab in local runtime
+    https://research.google.com/colaboratory/local-runtimes.html
 -Local computer : Download .py file
 
 
